@@ -53,4 +53,3 @@ b[2] = 8'''
 '''a = [2, 3, 4]
 b = a[:] (Você apenas copia e não vincula uma lista na outra)
 b[2] = 8'''
-
