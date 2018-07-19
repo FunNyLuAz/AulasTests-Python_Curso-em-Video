@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d0f998b-a6d2-4167-a7b8-6f95e7a68f18" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,8 +97,8 @@
       <file leaf-file-name="test013.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test013.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="2430">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
@@ -137,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="84" />
     <option name="y" value="11" />
     <option name="width" value="1400" />
@@ -151,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,7 +162,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,13 +306,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="84" y="11" width="1400" height="1000" extended-state="1" />
+    <frame x="84" y="11" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25183553" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007342" side_tool="true" weight="0.30750895" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992658" visible="true" weight="0.30750895" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992658" weight="0.30750895" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32896304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -681,8 +680,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test013.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="2430">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
